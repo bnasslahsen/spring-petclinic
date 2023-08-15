@@ -21,7 +21,7 @@
 To run the demo using docker, invoke the following:
 
 ```sh
-docker run -p 8080:8080 bnasslahsen/spring-petclinic:3.1.0-SNAPSHOT
+docker run -p 8080:8080 spring-petclinic:3.1.0-SNAPSHOT
 ```
 
 ### Testing the application
